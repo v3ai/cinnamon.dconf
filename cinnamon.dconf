@@ -8,7 +8,7 @@ next-applet-id=15
 quit-time-delay=60
 
 [desktop/a11y/applications]
-screen-keyboard-enabled=true
+screen-keyboard-enabled=false
 
 [desktop/background]
 picture-options='zoom'
